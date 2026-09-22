@@ -1,4 +1,4 @@
-main.tf
+server-setup/main.tf
 .terraform.lock.hcl
 terraform.tfstate.backup
 terraform.tfstate
