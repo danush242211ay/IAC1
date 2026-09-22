@@ -13,7 +13,7 @@ pipeline {
             steps {
                 script {
                     dir("terraform") {
-                        git branch: 'terraform-projects', url: 'https://github.com/ManojKRISHNAPPA/DevOps-Project-Series.git'
+                        git branch: 'main', url: 'https://github.com/danush242211ay/IAC1.git'
                     }
                 }
             }
